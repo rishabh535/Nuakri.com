@@ -6,8 +6,8 @@ Naukri.com is one of India's leading job search and employment websites. If you'
 
 ## Table of Contents
 
-- [Project Name](#project-name)
-  - [Table of Contents](#table-of-contents)
+- Job analysis of Naukri.com
+  - Overview 
   - [About](#about)
   - [Demo](#demo)
   - [Features](#features)
@@ -18,19 +18,24 @@ Naukri.com is one of India's leading job search and employment websites. If you'
 
 ## About
 
-Provide a more detailed overview of your project. Explain its purpose, why it was created, and what problem it solves. You can also mention any technologies or frameworks you used.
-
+The project involved web scraping using Selenium, data extraction, exploratory data analysis (EDA) to clean the data, and data visualization using Power BI to analyze job trends in India. It gathered job market data from Naukri.com, cleaned and processed it, and used Power BI to create visualizations for insights into job market trends. This project can be valuable for job seekers, employers, and anyone interested in understanding the Indian job market dynamics. Proper documentation of the project is essential for transparency and reproducibility.
 ## Demo
+Web Scarping code 
+![image](https://github.com/rishabh535/Nuakri.com/assets/135207990/488340b1-6a5d-4a43-a2db-3671c5213a7c)
+View of dashboard
+![image](https://github.com/rishabh535/Nuakri.com/assets/135207990/d385119f-56e3-4d48-9745-81c8e1edd7c2)
 
-Include a link to a live demo or screenshots of your project to give users a visual understanding of what it looks like in action.
+## Insights
 
-## Features
+1. After 1980 there is a boom in the IT field
+2. There are small and medium sized companies more in numbers as compared to large IT giants.
+3. There are more job openings in Bangalore as compared to other cities.
+4. Mumbai and Pune rank after Bangalore.
+5. Engineering field is in high demand
+6. Approximate 95% of companies hire for full time roles
+7. Software Development role is in high demand
 
-List the key features of your project. You can use bullet points or a numbered list.
 
-- Feature 1
-- Feature 2
-- Feature 3
 
 ## Installation
 
