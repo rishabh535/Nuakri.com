@@ -8,22 +8,15 @@ Naukri.com is one of India's leading job search and employment websites. If you'
 
 - Job analysis of Naukri.com
   - Overview 
-  - [About](#about)
+  - About
   - [Demo](#demo)
-  - [Features](#features)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
-
+  - [Insights](#features)
 ## About
 
 The project involved web scraping using Selenium, data extraction, exploratory data analysis (EDA) to clean the data, and data visualization using Power BI to analyze job trends in India. It gathered job market data from Naukri.com, cleaned and processed it, and used Power BI to create visualizations for insights into job market trends. This project can be valuable for job seekers, employers, and anyone interested in understanding the Indian job market dynamics. Proper documentation of the project is essential for transparency and reproducibility.
 ## Demo
 Web Scarping code 
 ![image](https://github.com/rishabh535/Nuakri.com/assets/135207990/488340b1-6a5d-4a43-a2db-3671c5213a7c)
-View of dashboard
-![image](https://github.com/rishabh535/Nuakri.com/assets/135207990/d385119f-56e3-4d48-9745-81c8e1edd7c2)
 
 ## Insights
 
@@ -34,15 +27,3 @@ View of dashboard
 5. Engineering field is in high demand
 6. Approximate 95% of companies hire for full time roles
 7. Software Development role is in high demand
-
-
-
-## Installation
-
-Provide instructions on how to install and set up your project. Include any prerequisites or dependencies that users need to install.
-
-```bash
-# Example installation steps
-npm install
-npm start
-
