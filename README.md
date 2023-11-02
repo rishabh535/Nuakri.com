@@ -7,8 +7,8 @@ Naukri.com is one of India's leading job search and employment websites. If you'
 ## Table of Contents
 
 - Job analysis of Naukri.com
-  - Overview 
-  - About
+  - [Overview](#overview) 
+  - [About](#about)
   - [Demo](#demo)
   - [Insights](#features)
 ## About
